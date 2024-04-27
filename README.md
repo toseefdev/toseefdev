@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--     <title>Muhammad Ahmad's Profile</title> -->
+<!--     <title>Toseef Altaf's Profile</title> -->
     <!-- Add any additional meta tags, stylesheets, or scripts here -->
 </head>
 <body>
 
 
 <p align="center">
-  <a href="https://github.com/toseefdev"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Python%20Programmer;Python%20Tools%20Developer;Web%20Automation%20Expert;1.0%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/toseefdev"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Python%20Programmer;Python%20Tools%20Developer;Web%20Automation%20Expert;1.5%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <div align="center">
@@ -24,7 +24,7 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Toseef Altaf</h1>
 <h3 align="center">A Professional Web Scraper (Web Scraping, Web Automation, Data Scraping) from Pakistan</h3>
 
 <br>
@@ -42,7 +42,7 @@
 <h1 align="center">👩‍💻 About Me</h1>
 
 <p align="center">
-    <br>Hello! I am Muhammad Ahmad. I have more than one year of experience in several Web Scraping / Data Extraction projects using Python frameworks and other tools (Scrapy and Selenium). I can scrape any website, e.g., Dynamic (JavaScript / Ajax-based) websites, Login Required Sites, and IP Blocking Sites. I can provide Scrapped data in XLSX, CSV (Google Sheets or Excel), JSON, and the desired database. I am skilled with: - Python, HTML, HTML5, and CSS3 Strong Grip on Python libraries like: - Scrapy, Selenium, Requests, BeautifulSoup, LXML.
+    <br>Hello! I am Toseef Altaf. I have more than one year of experience in several Web Scraping / Data Extraction projects using Python frameworks and other tools (Scrapy and Selenium). I can scrape any website, e.g., Dynamic (JavaScript / Ajax-based) websites, Login Required Sites, and IP Blocking Sites. I can provide Scrapped data in XLSX, CSV (Google Sheets or Excel), JSON, and the desired database. I am skilled with: - Python, HTML, HTML5, and CSS3 Strong Grip on Python libraries like: - Scrapy, Selenium, Requests, BeautifulSoup, LXML.
 </p>
 
 <br>
@@ -58,7 +58,7 @@
     - 🤝 I’m looking for help with **Web Scraper**<br>
     - 👨‍💻 All of my projects are available at [https://github.com/toseefdev]<br>
     - 💬 Ask me about **Web Scraping and web automation**<br>
-    - 📫 How to reach me **612muhammadahmad@gmail.com**<br>
+    - 📫 How to reach me **toseefaltaf222@gmail.com**<br>
     - 📄 Know about my experiences Fiverr & Upwork<br>
     - ⚡ Fun fact **I can create an automation bot and script for you.**<br>
 </p>
@@ -148,26 +148,26 @@
 
 <p align="center">
     <a href="https://github.com/toseefdev">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=toseefdev&theme=radical&border=7F3FBF&background=0D1117" alt="Muhammad Ahmad GitHub streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=toseefdev&theme=radical&border=7F3FBF&background=0D1117" alt="Toseef Altaf GitHub streak"/>
     </a>
 </p>
 <br>
 <p align="center">
     <a href="https://github.com/toseefdev">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toseefdev&theme=radical" alt="Muhammad Ahmad GitHub Contribution"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toseefdev&theme=radical" alt="Toseef Altaf GitHub Contribution"/>
     </a>
 </p>
 <br>
 <a href="https://github.com/toseefdev">
-    <img alt="Muhammad Ahmad Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=toseefdev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img alt="Toseef Altaf Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=toseefdev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
 </a>
 
 <a href="https://github.com/toseefdev">
-    <img alt="Muhammad Ahmad Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=toseefdev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img alt="Toseef Altaf Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=toseefdev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
 </a>
 <br>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=toseefdev&theme=react" alt="Muhammad Ahmad Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toseefdev&theme=react" alt="Toseef Altaf Graph">
 
 </body>
