@@ -1,50 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--     <title>꧁༒☬Ţøűşéèf☬༒꧂ Profile</title> -->
+    <!-- Add any additional meta tags, stylesheets, or scripts here -->
+</head>
+<body>
+
+
+<p align="center">
+  <a href="https://github.com/Toseef Dev"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Python%20Programmer;Python%20Tools%20Developer;Web%20Automation%20Expert;1.0%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
 <div align="center">
-  <h1>👋 Hi there, I'm Toseef! Welcome to my GitHub Profile 👨‍💻</h1>
-  <p>Passionate about leveraging Python for automation and web scraping.</p>
-  <p><i>"Automate the boring stuff and scrape the web for insights!"</i></p>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <!-- Add similar shields for other social media platforms -->
 </div>
 
-### 🚀 Quick Overview
+<br>
 
-- 🔭 I’m currently exploring advanced Python libraries for task automation and scraping.
-- 🌱 Learning new techniques in web scraping to handle dynamic content effectively.
-- 👯 Looking to collaborate on open-source projects related to automation and data extraction.
-- 💬 Ask me about Python, web scraping, automation, or anything tech-related!
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourusername) | [Twitter](https://twitter.com/yourusername)
-- 😄 Pronouns: He/Him
+<h1 align="center">Hi 👋, I'm Toseef Altaf</h1>
+<h3 align="center">A Professional Web Scraper (Web Scraping, Web Automation, Data Scraping) from Pakistan</h3>
 
-### 🛠️ Technologies & Tools
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-4-orange?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup" />
-  <img src="https://img.shields.io/badge/Scrapy-1E90FF?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
+<a href="https://github.com/Toseef Dev">
+    <img align="left" src="https://komarev.com/ghpvc/?username=Toseef Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</a>
 
-### 🌟 Fun Fact
+<a href="https://github.com/Toseef Dev">
+    <img align="right" src="https://komarev.com/ghpvc/?username=Toseef Dev&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
+</a>
 
-Did you know I once built a Python script to automatically scrape and analyze movie reviews from multiple websites, helping me decide which movies to watch next? 🎥
+<br>
 
-### 🌐 Scraping Projects
-
-- **Amazon Price Tracker**: A Python script to scrape product prices from Amazon and track changes.
-- **Rightmove Property Scraper**: Scrapes property listings from Rightmove UK for real estate analysis.
-- **Zillow Housing Market Data Extractor**: Extracts housing market data from Zillow for research and analysis.
-
-### 🗣️ Languages
-
-- English: Fluent
-- Urdu: Native
-- Punjabi: Proficient
-
-### 📊 GitHub Stats
+<h1 align="center">👩‍💻 About Me</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toseefdev&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    <br>Hello! I am Toseef Altaf. I have more than one year of experience in several Web Scraping / Data Extraction projects using Python frameworks and other tools (Scrapy and Selenium). I can scrape any website, e.g., Dynamic (JavaScript / Ajax-based) websites, Login Required Sites, and IP Blocking Sites. I can provide Scrapped data in XLSX, CSV (Google Sheets or Excel), JSON, and the desired database. I am skilled with: - Python, HTML, HTML5, and CSS3 Strong Grip on Python libraries like: - Scrapy, Selenium, Requests, BeautifulSoup, LXML.
 </p>
 
+<br>
 
+<h1 align="left">🔥 My Stats :</h1>
+
+<p align="left">
+    <img align="right" width="350" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding gif" />
+    <br>
+        - 🔭 I’m currently working on **Fiverr and Upwork**<br>
+    - 🌱 I’m currently learning **Web Development**<br>
+    - 👯 I’m looking to collaborate on **Cloud Native Project**<br>
+    - 🤝 I’m looking for help with **Web Scraper**<br>
+    - 👨‍💻 All of my projects are available at [https://github.com/Toseef Dev]<br>
+    - 💬 Ask me about **Web Scraping and web automation**<br>
+    - 📫 How to reach me **toseefaltaf222@gmail.com**<br>
+    - 📄 Know about my experiences Fiverr & Upwork<br>
+    - ⚡ Fun fact **I can create an automation bot and script for you.**<br>
+</p>
+
+<br>
+<br></br>
+<h1 align="left">🛠 Language and Tools</h1>
+<br></br>
+<div align="center"
+    <br></br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+    <img width="12" />
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+    <img width="12" /> -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" alt="safari logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"     
+    alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" 
+     alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" 
+     alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" 
+     alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" 
+   alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" 
+   alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" 
+   alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" 
+   alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" 
+   alt="hackerrank logo"  />
+</div>
+
+<br>
+<hr/>
+<br/>
+
+<p align="center">
+    <a href="https://github.com/Toseef Dev">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toseef Dev&theme=radical&border=7F3FBF&background=0D1117" alt="Toseef Altaf  GitHub streak"/>
+    </a>
+</p>
+<br>
+<p align="center">
+    <a href="https://github.com/v">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Toseef Dev&theme=radical" alt="Toseef Altaf GitHub Contribution"/>
+    </a>
+</p>
+<br>
+<a href="https://github.com/Toseef Dev">
+    <img alt="Toseef Altaf  Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Toseef Dev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+</a>
+
+<a href="https://github.com/Toseef Dev">
+    <img alt="Toseef Altaf Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Toseef Dev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+</a>
+<br>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Toseef Dev&theme=react" alt="Toseef Altaf  Graph">
+
+</body>
